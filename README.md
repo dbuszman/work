@@ -2,6 +2,6 @@
 
 ### Batch Scripts
 
-'''
+'''sh
 TimeChange.bat
 '''
