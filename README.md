@@ -3,7 +3,8 @@
 ### Batch Scripts
 
 ```
-[TimeChange.bat]: https://raw.githubusercontent.com/dbuszman/work/master/TimeChange.bat
+[TimeChange.bat] [batch1]
+[batch1]: https://raw.githubusercontent.com/dbuszman/work/master/TimeChange.bat
 ```
 
 ```
