@@ -5,3 +5,7 @@
 ```
 TimeChange.bat
 ```
+
+```
+MaximalizeConsole.bat
+```
