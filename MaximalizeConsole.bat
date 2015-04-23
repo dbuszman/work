@@ -5,3 +5,4 @@
  
 @echo off
 start /MAX C:\Users\Dariusz\Desktop\ConsoleApplication1.exe 
+GOTO:EOF
