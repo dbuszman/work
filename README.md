@@ -3,9 +3,9 @@
 ### Batch Scripts
 
 ```
-[TimeChange.bat](https://github.com/dbuszman/work/blob/master/TimeChange.bat)
+[TimeChange.bat]: https://raw.githubusercontent.com/dbuszman/work/master/TimeChange.bat
 ```
 
 ```
-[MaximalizeConsole.bat](https://github.com/dbuszman/work/blob/master/MaximalizeConsole.bat)
+[MaximalizeConsole.bat]: https://raw.githubusercontent.com/dbuszman/work/master/MaximalizeConsole.bat
 ```
